@@ -1,4 +1,3 @@
-# car_sales
 
 # Car Sales
 Sept 2019
